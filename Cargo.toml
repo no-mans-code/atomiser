@@ -1,0 +1,12 @@
+[package]
+name = "atomiser"
+version = "0.1.0"
+edition = "2021"
+description = "Reusable query/task decomposition: deterministic classify + compound detection, one-shot plan-graph decompose."
+license = "MIT"
+
+[dependencies]
+regex = "1"
+anyhow = "1"
+
+[dev-dependencies]
